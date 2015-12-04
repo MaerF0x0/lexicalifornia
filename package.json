@@ -1,0 +1,19 @@
+{
+  "name": "lexicalifornia",
+  "version": "0.0.0",
+  "description": "lexical sorting fun",
+  "main": "lexi.js",
+  "dependencies": {
+    "underscore": "~1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MaerF0x0/lexicalifornia.git"
+  },
+  "author": "MaerF0x0",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/MaerF0x0/lexicalifornia/issues"
+  }
+}
