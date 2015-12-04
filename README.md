@@ -2,7 +2,8 @@
 Sorts [a-z]* lexicographically.
 
 # Run time discussion
-The sort function is "lexi"[lexi.js]. It uses nodejs' underlying Array.sort function.
+The sort function is (lexi)[https://github.com/MaerF0x0/lexicalifornia/blob/master/lexi.js].
+It uses nodejs' underlying Array.sort function.
 I had difficulty finding the exact code line, but
 [this source](http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html)
 suggests that v8 (nodejs) uses QuickSort w/ worstcase O(n^2)
